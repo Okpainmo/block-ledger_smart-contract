@@ -7,7 +7,7 @@ pragma solidity >=0.8.2 <0.9.0;
  * @notice This contract allows an accountancy firm to register users, track wallet balances, and record monthly payouts.
  * @dev Demonstrates the use of structs, arrays, mappings and data access control.
  */
-contract ArraysMappingsAndStructs {
+contract Core {
     /// @notice Represents a payout made by a user
     struct Payout {
         address paidBy; ///< Address of the payer
