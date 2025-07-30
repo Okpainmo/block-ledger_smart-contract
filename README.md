@@ -10,6 +10,13 @@ Smart contract project for 'Block Ledger'.
 
 A special statement on the global move towards **on-chain finance**.
 
+## Tool Stack(As Proposed).
+
+- Solidity.
+- Hardhat.
+- IPFS.
+- More...
+
 ## Features.
 
 - wallet log-in(only contract deployer has access).
